@@ -1,0 +1,10 @@
+1 Apr 25
+Java Introduction
+Java Basic and data types
+Object and how to access
+
+4th Apr 25
+Java
+
+8th Apr
+Function and its type
