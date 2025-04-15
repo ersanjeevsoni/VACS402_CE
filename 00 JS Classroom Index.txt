@@ -8,3 +8,8 @@ Java
 
 8th Apr
 Function and its type
+Anonymous Function
+Template Literals
+
+11th Apr
+Call back function
